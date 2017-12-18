@@ -1,0 +1,14 @@
+#Unreal auto generated folders
+*/Binaries/
+*/Build/
+*/DerivedDataCache/
+*/Intermediate/
+*/Saved/
+
+#Unreal starter pack
+EscapeGame/Content/StarterContent/
+
+
+#Visual studio auto generated db
+*.VC.opendb
+*.VC.db
